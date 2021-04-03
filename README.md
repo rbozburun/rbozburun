@@ -29,7 +29,7 @@ Try to be best whatever you do!
 - Cyber Security + Python is something I'm interested in.
 - Web application security and threat intelligence  are areas I'm focusing on right now.
 - I :heart:  Linux
-
+--------- 
 #### Some Social Media Accounts
 <!-- display the social media buttons in your README -->
 [![alt text][1.1]][1]
