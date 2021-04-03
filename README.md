@@ -7,6 +7,7 @@
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: https://raw.githubusercontent.com/rbozburun/rbozburun/main/yt.png (youtube icon)
 [3.1]: https://raw.githubusercontent.com/rbozburun/rbozburun/main/website.png (website icon)
+[4.1]: https://raw.githubusercontent.com/rbozburun/rbozburun/main/linkedin.png (linkedin icon)
 
 
 
@@ -16,6 +17,7 @@
 [1]: http://www.twitter.com/rbozburun38
 [2]: https://www.youtube.com/channel/UCh1L69ZZdHyIChJTJ22804A
 [3]: https://www.acabaaa.com/
+[4]: https://www.linkedin.com/in/rbozburun/
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
@@ -34,6 +36,7 @@ Try to be best whatever you do!
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
+[![alt text][4.1]][4]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbozburun&theme=chartreuse-dark&show_icons=true)
 -----
