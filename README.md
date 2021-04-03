@@ -9,6 +9,7 @@
 [3.1]: https://raw.githubusercontent.com/rbozburun/rbozburun/main/website.png (website icon)
 [4.1]: https://raw.githubusercontent.com/rbozburun/rbozburun/main/linkedin.png (linkedin icon)
 [5.1]: https://raw.githubusercontent.com/rbozburun/rbozburun/main/website.png (website icon)
+[6.1]: https://raw.githubusercontent.com/rbozburun/rbozburun/main/instagram.png (instagram icon)
 
 
 
@@ -19,7 +20,8 @@
 [2]: https://www.youtube.com/channel/UCh1L69ZZdHyIChJTJ22804A
 [3]: https://www.acabaaa.com/
 [4]: https://www.linkedin.com/in/rbozburun/
-[5]: https://www.sibersaldirilar.com/
+[5]: https://www.sibersaldirilar.com/ 
+[6]: https://www.instagram.com/pozlaresul/
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
@@ -43,6 +45,7 @@ Try to be best whatever you do!
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
+[![alt text][6.1]][6]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbozburun&theme=chartreuse-dark&show_icons=true)
 -----
