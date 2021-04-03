@@ -5,6 +5,7 @@ Try to be best whatever you do!
 - Cyber Security + Python is something I'm interested in.
 - Web application security and threat intelligence  are areas I'm focusing on right now.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbozburun&theme=highcontrast&show_icons=true)
 -----
 
 
