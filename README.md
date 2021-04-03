@@ -32,6 +32,9 @@ Try to be best whatever you do!
 - Cyber Security + Python is something I'm interested in.
 - Web application security and threat intelligence  are areas I'm focusing on right now.
 - I :heart:  Linux
+- :camera:: Also I'm an amateur photographer. You can find me as <b>@pozlaresul</b> on <a href="https://instagram.com/pozlaresul">instagram</a>
+
+## [![Github](https://img.shields.io/github/followers/rbozburun?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 --------- 
 #### Some Social Media Accounts and my Websites
 <!-- display the social media buttons in your README -->
