@@ -36,7 +36,7 @@ Try to be best whatever you do!
 - I :heart:  Linux
 - Also I'm an amateur photographer. You can find me as <b>@pozlaresul</b> on <a href="https://instagram.com/pozlaresul">Instagram</a> :camera:
 
-## [![Github](https://img.shields.io/github/followers/rbozburun?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+## [![Github](https://img.shields.io/github/followers/rbozburun?label=Follow&style=social)]
 --------- 
 #### Some Social Media Accounts and my Websites
 <!-- display the social media buttons in your README -->
