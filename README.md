@@ -10,6 +10,7 @@
 [4.1]: https://raw.githubusercontent.com/rbozburun/rbozburun/main/linkedin.png (linkedin icon)
 [5.1]: https://raw.githubusercontent.com/rbozburun/rbozburun/main/website.png (website icon)
 [6.1]: https://raw.githubusercontent.com/rbozburun/rbozburun/main/instagram.png (instagram icon)
+[7.1]: https://raw.githubusercontent.com/rbozburun/rbozburun/main/yt.png (youtube icon)
 
 
 
@@ -22,6 +23,7 @@
 [4]: https://www.linkedin.com/in/rbozburun/
 [5]: https://www.sibersaldirilar.com/ 
 [6]: https://www.instagram.com/pozlaresul/
+[7]: https://www.youtube.com/channel/UCpmKcG1fZEkWmEv9rRW3Huw
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
