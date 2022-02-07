@@ -19,7 +19,7 @@
 
 [1]: http://www.twitter.com/rbozburun38
 [2]: https://www.youtube.com/channel/UCh1L69ZZdHyIChJTJ22804A
-[3]: https://www.acabaaa.com/
+[3]: https://www.acaaba.com/
 [4]: https://www.linkedin.com/in/rbozburun/
 [5]: https://www.sibersaldirilar.com/ 
 [6]: https://www.instagram.com/pozlaresul/
