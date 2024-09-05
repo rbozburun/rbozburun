@@ -34,10 +34,9 @@ Try to be best whatever you do!
 
 > You can check my portoflio: https://rbozburun.github.io/
 
-- Cyber Security + Python & GoLang is something I'm interested in.
-- Web application security and network security are areas I'm focusing on right now.
+- Application Security + Python & GoLang is something I'm interested in.
 - I :heart:  Linux
-- I'm one of the Lead of OWASP Mugla University Chapter.
+- I'm the founder of OWASP Mugla University Chapter.
 - Also I'm an amateur photographer. You can find me as <b>@pozlaresul</b> on <a href="https://instagram.com/pozlaresul">Instagram</a> :camera:
 
 ## ![Github](https://img.shields.io/github/followers/rbozburun?label=Follow&style=social)
